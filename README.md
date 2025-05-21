@@ -35,7 +35,7 @@ To get started with the AI Drawing Pad, follow the instructions below:
 We welcome contributions from the community to enhance the AI Drawing Pad. To contribute, please follow these steps:
 
 ### 1 Fork the repository on GitHub.
-- Clone your forked repository: git clone https://github.com/DrawPad-AI/DrawPad-AI
+- Clone your forked repository: git clone https://github.com/adityatiwari12/DrawPad-AI
 - Create a new branch for your feature/bug fix: git checkout -b feature/bug-fix-name
 - Make your modifications and test thoroughly.
 - Commit your changes: git commit -m "Description of your changes"
@@ -56,5 +56,4 @@ We would like to thank the following libraries and resources that made this proj
 - Bootstrap
 A big shoutout to all contributors who have helped improve the AI Drawing Pad!
 
-## Contact
-For any further questions or inquiries, please contact our team at aniketaditya2002@gmail.com.
+
